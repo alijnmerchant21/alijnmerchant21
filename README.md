@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ![Thinker | Coder | Implementer and Everything in between!](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/My%20Movie%201.gif)
 
 A Software Developer by soul; and Blockchain Developer by passion.
@@ -15,6 +12,4 @@ Coding is in my DNA and learning new things gives me a Kick!!
 📫 How to reach me: ... *Ping me @ hello@alijnmerchant.com*\
 😄 Pronouns: ... *A Proud MAN.*\
 ⚡ Fun fact: ... *From being scared to stand in 4 feet of water to doing free jumps in 20 feet of water - I fought my way through!*\
-
-
 ![Dino](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/dino.gif)
