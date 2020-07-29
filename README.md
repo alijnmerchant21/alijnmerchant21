@@ -7,7 +7,7 @@ A Software Developer by soul; and Blockchain Developer by passion.
 
 Coding is in my DNA and learning new things gives me a Kick!!
 
-🔭 I’m currently working on ... An open source Blockchain Based Password Vault. &nbsp &nbsp &nbsp
+🔭 I’m currently working on ... An open source Blockchain Based Password Vault.&nbsp&nbsp&nbsp
 🌱 I’m currently learning ... Corda and Hyperledger.
 👯 I’m looking to collaborate on ... Blockchain based Projects.
 🤔 I’m looking for help with ... Funding for LAW school
