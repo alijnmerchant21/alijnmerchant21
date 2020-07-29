@@ -11,7 +11,7 @@ Coding is in my DNA and learning new things gives me a Kick!!
 - 🔭 I’m currently working on ... *An open source Blockchain Based Password Vault.*
 - 🌱 I’m currently learning ... *Corda and Hyperledger.*
 - 👯 I’m looking to collaborate on ... *Blockchain based Projects.*
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... *Funding for LAW school*
 - 💬 Ask me about ... *Software, Blockchain and Game of Thrones!*
 - 📫 How to reach me: ... *Ping me @ hello@alijnmerchant.com*
 - 😄 Pronouns: ... *A Proud MAN.*
