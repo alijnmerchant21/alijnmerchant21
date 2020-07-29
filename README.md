@@ -1,8 +1,8 @@
 ![Thinker | Coder | Implementer and Everything in between!](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/My%20Movie%201.gif)
 
-A Software Developer by soul; and Blockchain Developer by passion.
+**A Software Developer by soul; and Blockchain Developer by passion.**
 
-Coding is in my DNA and learning new things gives me a Kick!!
+**Coding is in my DNA and learning new things gives me a Kick!!**
 
 🔭 I’m currently working on ... *An open source Blockchain Based Password Vault.*\
 🌱 I’m currently learning ... *Corda and Hyperledger.*\
