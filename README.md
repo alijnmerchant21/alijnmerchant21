@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(https://github.com/alijnmerchant21/alijnmerchant21/blob/master/Animated%20GIF-original.mp4)
+(https://github.com/alijnmerchant21/alijnmerchant21/blob/master/Animated-GIF-original.gif)
 
 
 A Software Developer by soul; and Blockchain Developer by passion.
