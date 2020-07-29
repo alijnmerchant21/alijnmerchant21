@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Thinker | Coder | Implementer and Everything in between!](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/Animated-GIF-original.gif)
+![Thinker | Coder | Implementer and Everything in between!](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/My%20Movie%201.mp4)
 
 A Software Developer by soul; and Blockchain Developer by passion.
 
