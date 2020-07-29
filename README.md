@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**alijnmerchant21/alijnmerchant21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alijnmerchant21/alijnmerchant21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 A Software Developer by soul; and Blockchain Developer by passion.
 
