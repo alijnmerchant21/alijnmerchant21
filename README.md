@@ -4,9 +4,7 @@
 
 *A proud Son, Brother & Friend*<br>
 
-**A Software Developer by Soul; and Blockchain Developer by Passion.**
-
-**Coding is in my DNA and learning new things gives me a Kick!!**
+*A **Software Developer** by **Soul**; and **Blockchain Developer** by **Passion.** &nbsp *Coding is in my DNA and learning new things gives me a Kick!!*
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
