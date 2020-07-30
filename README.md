@@ -1,5 +1,5 @@
 <!--![Thinker | Coder | Implementer and Everything in between!](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/My%20Movie%201.gif)-->
-### Hello, I'm Ali! 👋 <iframe src="https://github.com/sponsors/alijnmerchant21/button" title="Sponsor alijnmerchant21" height="35" width="107" style="border: 0;"></iframe>
+### Hello, I'm Ali! 👋
 
 *A proud Son, Brother & Friend*<br>
 
