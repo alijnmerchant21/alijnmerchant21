@@ -9,8 +9,8 @@
 **Coding is in my DNA and learning new things gives me a Kick!!**
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=revertdata&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=revertdata&layout=compact&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&layout=compact&theme=gruvbox)
 
 🔭 **I’m currently working on** ... *An open source Blockchain Based Password Vault.*\
 🌱 **I’m currently learning** ... *Corda and Hyperledger.*\
@@ -30,6 +30,6 @@
 <a href="https://github.com/alijnmerchant21" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://alijnmerchant.com" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
-![Profile views](https://gpvc.arturio.dev/revertdata)
+![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
 
-[sponsor](https://github.com/sponsors/revertdata) | [paypal](https://paypal.me/alijnmerchant)
+[sponsor](https://github.com/sponsors/alijnmerchant21) | [paypal](https://paypal.me/alijnmerchant)
