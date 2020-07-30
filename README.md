@@ -8,12 +8,12 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&layout=compact&theme=gruvbox)
 
-🔭 **I’m currently working on** ... *An open source Blockchain Based Password Vault.*\
-🌱 **I’m currently learning** ... *Corda, Hyperledger & IOS Programming*\
-🤔 **I’m looking for help with** ... *Funding for LAW school.*\ [Law School Fund]
-💬 **Ask me about** ... *Software, Blockchain and Game of Thrones!*\
-😄 **Pronouns** ... *A Proud Man & Straight.*\
-⚡ **Fun fact** ... *From being scared to stand in 4 feet of water to doing free jumps in 20 feet of water - I fought my way through!*\
+🔭 **I’m currently working on** ... *An open source Blockchain Based Password Vault.*<br>
+🌱 **I’m currently learning** ... *Corda, Hyperledger & IOS Programming*<br>
+🤔 **I’m looking for help with** ... *Funding for LAW school.* [Law School Fund]<br>
+💬 **Ask me about** ... *Software, Blockchain and Game of Thrones!*<br>
+😄 **Pronouns** ... *A Proud Man & Straight.*<br>
+⚡ **Fun fact** ... *From being scared to stand in 4 feet of water to doing free jumps in 20 feet of water - I fought my way through!*<br>
 📫 **Say hello**: *hello@alijnmerchant.com*\ <br>
 
 ![Dino](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/dino.gif)
