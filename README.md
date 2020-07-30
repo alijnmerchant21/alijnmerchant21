@@ -2,7 +2,7 @@
 
 ### Hello, I'm Ali! 👋
 
-*A proud Son, Brother & Friend*\
+*A proud Son, Brother & Friend*<br>
 
 **A Software Developer by Soul; and Blockchain Developer by Passion.**
 
