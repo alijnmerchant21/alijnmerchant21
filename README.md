@@ -14,7 +14,7 @@
 💬 **Ask me about** ... *Software, Blockchain and Game of Thrones!*<br>
 😄 **Pronouns** ... *A Proud Man & Straight.*<br>
 ⚡ **Fun fact** ... *From being scared to stand in 4 feet of water to doing free jumps in 20 feet of water - I fought my way through!*<br>
-📫 **Say hello**: *hello@alijnmerchant.com*\ <br>
+📫 **Say hello** ... *hello@alijnmerchant.com*\ <br>
 
 ![Dino](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/dino.gif)
 
