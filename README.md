@@ -8,6 +8,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&layout=compact&theme=gruvbox)
 
+
 🔭 **I’m currently working on** ... *An open source Blockchain Based Password Vault.*<br>
 🌱 **I’m currently learning** ... *Corda, Hyperledger & IOS Programming*<br>
 🤔 **I’m looking for help with** ... *Funding for LAW school.* [Law School Fund]<br>
@@ -25,5 +26,7 @@
 <a href="https://alijnmerchant.com" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
+
+<a href="https://www.buymeacoffee.com/alijnmerchant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Support my Late Night Research" style="height: 8px !important;width: 17px !important;" ></a>
 
 [sponsor](https://github.com/sponsors/alijnmerchant21) | [paypal](https://paypal.me/alijnmerchant)
