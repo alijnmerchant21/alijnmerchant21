@@ -27,6 +27,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
 
-<a href="https://www.buymeacoffee.com/alijnmerchant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Support my Late Night Research" style="height: 8px !important;width: 17px !important;" ></a>
 
 [sponsor](https://github.com/sponsors/alijnmerchant21) | [paypal](https://paypal.me/alijnmerchant)
