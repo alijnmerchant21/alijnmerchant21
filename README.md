@@ -17,6 +17,8 @@
 ⚡ **Fun fact** ... *From being scared to stand in 4 feet of water to doing free jumps in 20 feet of water - I fought my way through!*<br>
 📫 **Say hello** ... *hello@alijnmerchant.com* <br>
 
+**PS:** *Always open to Coffee. I also make awesome Coffee!* <br>
+
 ![Dino](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/dino.gif)
 
 
