@@ -24,7 +24,9 @@
 <br> <br> <br>
 
 **Medium Most Recent Articles.** <br><br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alijnmerchant/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alijnmerchant/2" alt="Recent Article 0"> <br> <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alijnmerchant/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alijnmerchant/0" alt="Recent Article 0"> <br> <br>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alijnmerchant/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alijnmerchant/1" alt="Recent Article 1"> <br> <br>
 
 <a href="https://twitter.com/Ali_the_Curios" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/alijnmerchant/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
