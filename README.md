@@ -28,11 +28,9 @@
 <a href="https://github.com/alijnmerchant21" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://alijnmerchant.com" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
-<a href="https://medium.com/@alijnmerchant">
-  <img src="https://github-readme-medium.vercel.app/?username=alijnmerchant&limit=2" />
-</a>
+https://github-readme-medium-recent-article.vercel.app/medium/<medium-username>/<article-index>
 
-![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2alijnmerchant%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alijnmerchant/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alijnmerchant/0" alt="Recent Article 0"> 
 
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
 
