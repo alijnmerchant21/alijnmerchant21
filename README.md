@@ -28,8 +28,8 @@
 <a href="https://github.com/alijnmerchant21" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://alijnmerchant.com" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
-<a href="https://medium.com/@alijnmerchant">
-  <img src="https://github-readme-medium.vercel.app/?username=alijnmerchant&limit=2" />
+<a href="https://medium.com/@omidnikrah">
+  <img src="https://github-readme-medium.vercel.app/?username=omidnikrah&limit=2" />
 </a>
 
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
