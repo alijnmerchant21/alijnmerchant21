@@ -28,6 +28,8 @@
 <a href="https://github.com/alijnmerchant21" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://alijnmerchant.com" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
+[![Ali Medium](https://github-readme-medium.vercel.app/?username=alijnmerchant)](https://medium.com/@alijnmerchant)
+
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
 
 <a href="https://www.buymeacoffee.com/alijnmerchant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" style="height: 8px !important;width: 17px !important;" ></a>
