@@ -19,6 +19,12 @@
 
 **PS:** *Always open to Coffee. I also make awesome Coffee!* <br>
 
+<br>
+
+**Medium Most Recent Articles.** <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alijnmerchant/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alijnmerchant/0" alt="Recent Article 0"> <br>
+  <br>
+
 ![Dino](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/dino.gif)
 
 
@@ -28,9 +34,6 @@
 <a href="https://github.com/alijnmerchant21" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://alijnmerchant.com" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
-https://github-readme-medium-recent-article.vercel.app/medium/<medium-username>/<article-index>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alijnmerchant/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@alijnmerchant/0" alt="Recent Article 0"> 
 
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
 
