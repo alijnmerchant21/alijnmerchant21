@@ -32,6 +32,8 @@
   <img src="https://github-readme-medium.vercel.app/?username=alijnmerchant&limit=2" />
 </a>
 
+![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2alijnmerchant%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
+
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
 
 <a href="https://www.buymeacoffee.com/alijnmerchant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" style="height: 8px !important;width: 17px !important;" ></a>
