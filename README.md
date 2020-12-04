@@ -18,6 +18,8 @@
 
 <!-- Till here -->
 
+<br>
+<br>
 
 🔭 **I’m currently working on** ... *Building my portfolio with impresive Ethereum based projects.*<br>
 🌱 **I’m currently learning** ... *Corda, Ethereum & IOS Programming*<br>
