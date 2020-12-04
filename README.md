@@ -5,6 +5,10 @@
 
 *A* **Software Developer** *by* **Soul**; *and* **Blockchain Developer** *by* **Passion.** *Coding is in my* **DNA** *and learning new things gives me a* **Kick!!**
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<p align="center">
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&layout=compact&theme=gruvbox)
 
