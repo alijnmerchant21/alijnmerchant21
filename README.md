@@ -21,6 +21,12 @@
 <br>
 <br>
 
+![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2alijnmerchant21%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)
+
+
+<br>
+<br>
+
 
 🔭 **I’m currently working on** ... *Building my portfolio with impresive Ethereum based projects.*<br>
 🌱 **I’m currently learning** ... *Corda, Ethereum & IOS Programming*<br>
