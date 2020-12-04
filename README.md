@@ -1,9 +1,8 @@
 <!--![Thinker | Coder | Implementer and Everything in between!](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/My%20Movie%201.gif)-->
-### Hello, I'm Ali! 👋
+### Hello, I'm Ali! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<p align="center">
 
-*A proud Son, Brother & Friend*<br>
-
-*A* **Software Developer** *by* **Soul**; *and* **Blockchain Developer** *by* **Passion.** *Coding is in my* **DNA** *and learning new things gives me a* **Kick!!**
+*A proud Son, Brother & Friend* <br>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
