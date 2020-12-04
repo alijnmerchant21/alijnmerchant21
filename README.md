@@ -2,7 +2,7 @@
 ### Hello, I'm Ali! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 
-*A proud Son, Brother & Friend* <br>
+**A proud Son, Brother & Friend** <br>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
@@ -11,8 +11,8 @@
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&layout=compact&theme=gruvbox)
 
 
-🔭 **I’m currently working on** ... *An open source Blockchain Based Password Vault.*<br>
-🌱 **I’m currently learning** ... *Corda, Hyperledger & IOS Programming*<br>
+🔭 **I’m currently working on** ... *Building my portfolio with impresive Ethereum based projects.*<br>
+🌱 **I’m currently learning** ... *Corda, Ethereum & IOS Programming*<br>
 🤔 **I’m looking for help with** ... *Funding for LAW school.* [Law School Fund]<br>
 💬 **Ask me about** ... *Software, Blockchain and Game of Thrones!*<br>
 😄 **Pronouns** ... *A Proud Man & Straight.*<br>
