@@ -23,7 +23,7 @@
 
 🔭 **I’m currently working on** ... *Building my portfolio with impresive Ethereum based projects.*<br>
 🌱 **I’m currently learning** ... *Corda, Ethereum & IOS Programming*<br>
-🤔 **I’m looking for help with** ... *Funding for LAW school.* [Send funds through PayPal. Message me for details](https://paypal.me/alijnmerchant) <br>
+🤔 **I’m looking for help with** ... *Funding for LAW school.* *Send funds through* [PayPal.](https://paypal.me/alijnmerchant) *Message me for details* <br>
 💬 **Ask me about** ... *Software, Blockchain and Game of Thrones!*<br>
 😄 **Pronouns** ... *A Proud Man & Straight.*<br>
 ⚡ **Fun fact** ... *From being scared to stand in 4 feet of water to doing free jumps in 20 feet of water - I fought my way through!*<br>
