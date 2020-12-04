@@ -7,8 +7,16 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&count_private=true&hide=contribs&theme=gruvbox)
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&layout=compact&theme=gruvbox)
+<!-- Delete it -->
+
+<a href="https://github.com/alijnmerchant21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/alijnmerchant21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ali's GitHub Stats" />
+</a>   
+
+<!-- Till here -->
 
 
 🔭 **I’m currently working on** ... *Building my portfolio with impresive Ethereum based projects.*<br>
@@ -36,16 +44,6 @@
 <a href="https://github.com/alijnmerchant21" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://alijnmerchant.com" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
-<!-- Delete it -->
-
-<a href="https://github.com/alijnmerchant21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/alijnmerchant21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ali's GitHub Stats" />
-</a>   
-
-<!-- Till here -->
 
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
 
