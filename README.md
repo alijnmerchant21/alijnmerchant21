@@ -27,7 +27,7 @@
 💬 **Ask me about** ... *Software, Blockchain and Game of Thrones!*<br>
 😄 **Pronouns** ... *A Proud Man & Straight.*<br>
 ⚡ **Fun fact** ... *I hacked a computer at the age of 14.*<br>
-📫 **Say hello** ... *hello@alijnmerchant.com* <br>
+📫 **Say hello** ... *alijnmerchant@live.com* <br>
 
 **PS:** *Always open to Coffee. I also make awesome Coffee!* <br>
 
