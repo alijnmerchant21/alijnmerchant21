@@ -21,12 +21,12 @@
 <br>
 <br>
 
-🔭 **I’m currently working on** ... *Building my portfolio with impresive Ethereum based projects.*<br>
-🌱 **I’m currently learning** ... *Corda, Ethereum & IOS Programming*<br>
+🔭 **I’m currently working on** ... *Building Internet of Blochains.*<br>
+🌱 **I’m currently learning** ... *Cosmos SDK, Ethereum & IOS Programming*<br>
 🤔 **I’m looking for help with** ... *Funding for LAW school.* *Send funds through* [PayPal.](https://paypal.me/alijnmerchant) *Message me for details* <br>
 💬 **Ask me about** ... *Software, Blockchain and Game of Thrones!*<br>
 😄 **Pronouns** ... *A Proud Man & Straight.*<br>
-⚡ **Fun fact** ... *I hacked a computer at the age of 14.*<br>
+⚡ **Fun fact** ... *I hacked a social media account at the age of 14.*<br>
 📫 **Say hello** ... *alijnmerchant@live.com* <br>
 
 **PS:** *Always open to Coffee. I also make awesome Coffee!* <br>
