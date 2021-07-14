@@ -20,7 +20,7 @@
 <br>
 
 🔭 **I’m currently working on** ... *Building Internet of Blochains.*<br>
-🌱 **I’m currently learning** ... *Cosmos SDK, Ethereum & IOS Programming*
+🌱 **I’m currently learning** ... *Cosmos SDK, Ethereum & IOS Programming*<br>
 💬 **Ask me about** ... *Software, Blockchain and Game of Thrones!*<br>
 😄 **Pronouns** ... *A Proud Man & Straight.*<br>
 ⚡ **Fun fact** ... *I hacked a social media account at the age of 14.*<br>
