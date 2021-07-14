@@ -21,7 +21,7 @@
 
 🔭 **I’m currently working on** ... *Building Internet of Blochains.*<br>
 🌱 **I’m currently learning** ... *Cosmos SDK, Ethereum & IOS Programming*
-<!-- 🤔 **I’m looking for help with** ... *Funding for LAW school.* *Send funds through* [PayPal.](https://paypal.me/alijnmerchant) *Message me for details* <br>-->
+<!-- 🤔 **I’m looking for help with** ... *Funding for LAW school.* *Send funds through* [PayPal.](https://paypal.me/alijnmerchant) *Message me for details*-->
 💬 **Ask me about** ... *Software, Blockchain and Game of Thrones!*<br>
 😄 **Pronouns** ... *A Proud Man & Straight.*<br>
 ⚡ **Fun fact** ... *I hacked a social media account at the age of 14.*<br>
