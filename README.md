@@ -7,16 +7,25 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 
-<!-- Github stat -->
+<!-- Most used languages -->
 
 <a href="https://github.com/alijnmerchant21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<!-- Most used languages end here -->
+  
+<!-- Github stat -->
+  
 <a href="https://github.com/alijnmerchant21">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ali's GitHub Stats" />
 </a>   
+<!-- stats end here -->
+  
+  <!-- demo -->
+  [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21)](https://github.com/alijnmerchant21/github-readme-stats)
 
-<!-- Till here -->
+  <!-- ends here -->
+
 
 <br>
 <br>
