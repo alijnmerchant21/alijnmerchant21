@@ -12,7 +12,7 @@
 <!-- Most used languages end here -->
  
 <!-- Github stat -->
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21)](https://github.com/alijnmerchant21/github-readme-stats&count_private=true)
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&count_private=true)](https://github.com/alijnmerchant21/github-readme-stats)
 <!-- stats end here -->
 
 
