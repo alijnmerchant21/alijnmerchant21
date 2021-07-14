@@ -9,9 +9,13 @@
 
 <!-- Most used languages -->
 
-<a href="https://github.com/alijnmerchant21">
+<!-- <a href="https://github.com/alijnmerchant21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&hide=CSS,C#,Jupyter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21)](https://github.com/alijnmerchant21/github-readme-stats)
+
+  
 <!-- Most used languages end here -->
   
 <!-- Github stat -->
