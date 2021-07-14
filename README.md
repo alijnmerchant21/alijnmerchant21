@@ -12,7 +12,7 @@
 <!-- Most used languages end here -->
  
 <!-- Github stat -->
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&count_private=true&show_icons=true)](https://github.com/alijnmerchant21/github-readme-stats)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&count_private=true&show_icons=true)
 <!-- stats end here -->
 
 
@@ -21,7 +21,7 @@
 
 🔭 **I’m currently working on** ... *Building Internet of Blochains.*<br>
 🌱 **I’m currently learning** ... *Cosmos SDK, Ethereum & IOS Programming*<br>
-🤔 **I’m looking for help with** ... *Funding for LAW school.* *Send funds through* [PayPal.](https://paypal.me/alijnmerchant) *Message me for details* <br>
+<!-- 🤔 **I’m looking for help with** ... *Funding for LAW school.* *Send funds through* [PayPal.](https://paypal.me/alijnmerchant) *Message me for details* <br>-->
 💬 **Ask me about** ... *Software, Blockchain and Game of Thrones!*<br>
 😄 **Pronouns** ... *A Proud Man & Straight.*<br>
 ⚡ **Fun fact** ... *I hacked a social media account at the age of 14.*<br>
