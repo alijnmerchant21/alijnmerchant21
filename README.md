@@ -17,7 +17,8 @@
 
 
 <!-- Most used languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&langs_count=20)](https://github.com/alijnmerchant21/github-readme-stats)  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&langs_count=20)](https://github.com/alijnmerchant21/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&langs_count=8)](https://github.com/alijnmerchant21/github-readme-stats)
 <!-- Most used languages end here -->
  
 <!-- Github stat -->
