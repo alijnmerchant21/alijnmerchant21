@@ -22,7 +22,8 @@
 <!-- Most used languages end here -->
  
 <!-- Github stat -->
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&count_private=true&show_icons=true)
+<!-- ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&count_private=true&show_icons=true) -->
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&theme=radical)
 <!-- stats end here -->
 
 
