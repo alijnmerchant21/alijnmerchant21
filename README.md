@@ -48,12 +48,10 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/0" alt="Recent Article 0"> <br> <br>
  
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1" alt="Recent Article 1"> <br> <br>
- 
- 
-
+ <br>
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
 
-<a href="https://www.buymeacoffee.com/alijnmerchant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" style="height: 16px !important;width: 34px !important;" ></a>
+<a href="https://www.buymeacoffee.com/alijnmerchant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" style="height: 8px !important;width: 17px !important;" ></a>
 
 [sponsor](https://github.com/sponsors/alijnmerchant21) | [paypal](https://paypal.me/alijnmerchant)
  
