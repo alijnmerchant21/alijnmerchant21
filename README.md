@@ -49,7 +49,7 @@
  
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1" alt="Recent Article 1"> <br> <br>
   
-  <!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1" alt="Recent Article 2"> <br> <br> -->
+
   
  <br>
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
