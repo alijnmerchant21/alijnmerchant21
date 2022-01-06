@@ -30,9 +30,9 @@
 <br>
 <br>
 
-🔭 **I’m currently working on** ... *Building Internet of Blochains.*<br>
+🔭 **I’m currently working on** ... *Building Internet of Blochains with ![Starport](http://starport.com/)*<br>
 🌱 **I’m currently learning** ... *Cosmos SDK, Ethereum & IOS Programming*<br>
-💬 **Ask me about** ... *Software, Blockchain and Game of Thrones!*<br>
+💬 **Ask me about** ... *Blockchain, Game of Thrones! & Deep work!*<br>
 😄 **Pronouns** ... *A Proud Man & Straight.*<br>
 ⚡ **Fun fact** ... *I hacked a social media account at the age of 14.*<br>
 📫 **Say hello** ... *alijnmerchant@live.com* <br>
@@ -48,6 +48,9 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/0" alt="Recent Article 0"> <br> <br>
  
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1" alt="Recent Article 1"> <br> <br>
+  
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1" alt="Recent Article 2"> <br> <br>
+  
  <br>
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
 
