@@ -49,25 +49,11 @@
  
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1" alt="Recent Article 1"> <br> <br>
  
- <!--
-```html
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@ali-the-curious/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
- ```
-  -->
  
-
-
-<!--
-<a href="https://twitter.com/Ali_the_Curios" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/alijnmerchant/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/alijnmerchant/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/alijnmerchant21" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="https://alijnmerchant.com" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
--->
 
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
 
-<a href="https://www.buymeacoffee.com/alijnmerchant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" style="height: 8px !important;width: 17px !important;" ></a>
+<a href="https://www.buymeacoffee.com/alijnmerchant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" style="height: 16px !important;width: 34px !important;" ></a>
 
 [sponsor](https://github.com/sponsors/alijnmerchant21) | [paypal](https://paypal.me/alijnmerchant)
  
