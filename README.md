@@ -2,7 +2,7 @@
 ### Hello, I'm Ali! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 
-**A proud Son, Brother & Friend** <br>
+**A proud Husband, Son, Brother & Friend** <br>
 <br>
  
  <a href="https://twitter.com/Ali_the_Curios" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
