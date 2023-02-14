@@ -33,15 +33,12 @@
 <br>
 <br>
 
-🔭 **I’m currently working on** ... *BFT Consensus Protocol - [Comet](http://cometbft.com)*<br>
-🌱 **I’m currently learning** ... *Cosmos SDK, Ethereum & IOS Programming*<br>
-💬 **Ask me about** ... *Blockchain, Game of Thrones! & Deep work!*<br>
-😄 **Pronouns** ... *A Proud Man & Straight.*<br>
-⚡ **Fun fact** ... *I hacked a social media account at the age of 14.*<br>
-📫 **Say hello** ... *alijnmerchant@live.com* <br>
- <!-- 🤔 **I’m looking for help with** ... *Funding for LAW school.* *Send funds through* [PayPal.](https://paypal.me/alijnmerchant) *Message me for details*-->
-
-**PS:** *Always open to Coffee. I also make awesome Coffee!* <br>
+ 
+👨‍💼 Working on: ➡️ *BFT Consensus Protocol - [Comet](http://cometbft.com)*<br>
+✴️ Excited About: ➡️ *Astrophysics & Existence of God* <br>
+🎊 Work Pleasure: ➡️ *IBC & Cosmos SDK* <br>
+⛓️ Love Doing ➡️ *Talking about Cosmos & Blockchain*
+ 
 
 ![Dino](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/dino.gif)
 
@@ -57,5 +54,4 @@
  <br>
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
 
-<a href="https://www.buymeacoffee.com/alijnmerchant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" style="height: 32px !important;width: 48px !important;" ></a>
  
