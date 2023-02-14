@@ -27,7 +27,7 @@
 
 
  
-<div align="right"> [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21)](https://github.com/alijnmerchant21/github-readme-stats) </div>
+<div align="right"> <[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21)](https://github.com/alijnmerchant21/github-readme-stats)> </div>
 
 
 <br>
