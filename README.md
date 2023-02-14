@@ -5,7 +5,7 @@
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
-**A proud Husband, Son, Brother & Friend** <br>
+**A proud Husband, Son & Brother** <br>
 <br>
  
  <a href="https://twitter.com/Ali_the_Curios" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
@@ -24,6 +24,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&langs_count=8)](https://github.com/alijnmerchant21/github-readme-stats)
 <!-- Most used languages end here -->
  
+<p align="right">
 <!-- Github stat -->
 <!-- ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&count_private=true&show_icons=true) -->
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&theme=radical)
