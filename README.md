@@ -20,14 +20,18 @@
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&langs_count=20)](https://github.com/alijnmerchant21/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&langs_count=20)](https://github.com/alijnmerchant21/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&langs_count=8)](https://github.com/alijnmerchant21/github-readme-stats)
-
  
-
-
+ <[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21)](https://github.com/alijnmerchant21/github-readme-stats)> </div> --> 
  
-<div align="right"> <[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21)](https://github.com/alijnmerchant21/github-readme-stats)> </div>
+ 
+ <a href="(https://github.com/alijnmerchant21/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alijnmerchant21" />
+ </a>
+ <a href="https://github.com/anuraghazra/convoychat">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+ </a>
 
 
 <br>
@@ -50,12 +54,7 @@
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1" alt="Recent Article 1"> <br> <br>
  
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
- </a>
- <a href="https://github.com/anuraghazra/convoychat">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
- </a>
+
   
 
   
