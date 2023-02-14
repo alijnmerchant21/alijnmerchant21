@@ -34,10 +34,10 @@
 <br>
 
  
-👨‍💼 Working on: ➡️ *BFT Consensus Protocol - [Comet](http://cometbft.com)*<br>
-✴️ Excited About: ➡️ *Astrophysics & Existence of God* <br>
-🎊 Work Pleasure: ➡️ *IBC & Cosmos SDK* <br>
-⛓️ Love Doing ➡️ *Talking about Cosmos & Blockchain*
+👨‍💼 *Working on:* ➡️ **BFT Consensus Protocol - [Comet](http://cometbft.com)**<br><br>
+✴️ *Excited About* ➡️ **Astrophysics & Existence of God**<br><br>
+🎊 *Work Pleasure* ➡️ **IBC & Cosmos SDK**<br><br>
+⛓️ *Love Doing* ➡️ **Talking about Cosmos & Blockchain**<br>
  
 
 ![Dino](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/dino.gif)
