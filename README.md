@@ -48,6 +48,14 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/0" alt="Recent Article 0"> <br> <br>
  
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1" alt="Recent Article 1"> <br> <br>
+ 
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+ </a>
+ <a href="https://github.com/anuraghazra/convoychat">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+ </a>
   
 
   
