@@ -22,18 +22,12 @@
 <!-- Most used languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&langs_count=20)](https://github.com/alijnmerchant21/github-readme-stats) -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&langs_count=8)](https://github.com/alijnmerchant21/github-readme-stats)
- 
- 
 <!-- Most used languages end here -->
  
 <!-- Github stat -->
+<!--  ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&count_private=true&show_icons=true) -->
  
-
-<!-- <align="right"> ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&count_private=true&show_icons=true) -->
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21)](https://github.com/alijnmerchant21/github-readme-stats)
- 
-<!-- ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&theme=radical) -->
+<align="right"> [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21)](https://github.com/alijnmerchant21/github-readme-stats)
 <!-- stats end here -->
 
 
