@@ -24,9 +24,8 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&langs_count=8)](https://github.com/alijnmerchant21/github-readme-stats)
 <!-- Most used languages end here -->
  
-<p align="right">
 <!-- Github stat -->
-<!-- ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&count_private=true&show_icons=true) -->
+<!-- <align="right"> ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&count_private=true&show_icons=true) -->
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&theme=radical)
 <!-- stats end here -->
 
@@ -34,7 +33,7 @@
 <br>
 <br>
 
-🔭 **I’m currently working on** ... *Building Internet of Blochains with ![Starport](http://starport.com/)*<br>
+🔭 **I’m currently working on** ... *BFT Consensus Protocol - Comet![Comet](http://cometbft.com)*<br>
 🌱 **I’m currently learning** ... *Cosmos SDK, Ethereum & IOS Programming*<br>
 💬 **Ask me about** ... *Blockchain, Game of Thrones! & Deep work!*<br>
 😄 **Pronouns** ... *A Proud Man & Straight.*<br>
@@ -58,7 +57,5 @@
  <br>
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
 
-<a href="https://www.buymeacoffee.com/alijnmerchant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" style="height: 8px !important;width: 17px !important;" ></a>
-
-[sponsor](https://github.com/sponsors/alijnmerchant21) | [paypal](https://paypal.me/alijnmerchant)
+<a href="https://www.buymeacoffee.com/alijnmerchant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" style="height: 32px !important;width: 48px !important;" ></a>
  
