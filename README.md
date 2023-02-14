@@ -33,7 +33,7 @@
 <br>
 <br>
 
-🔭 **I’m currently working on** ... *BFT Consensus Protocol - Comet![Comet](http://cometbft.com)*<br>
+🔭 **I’m currently working on** ... *BFT Consensus Protocol - [Comet](http://cometbft.com)*<br>
 🌱 **I’m currently learning** ... *Cosmos SDK, Ethereum & IOS Programming*<br>
 💬 **Ask me about** ... *Blockchain, Game of Thrones! & Deep work!*<br>
 😄 **Pronouns** ... *A Proud Man & Straight.*<br>
