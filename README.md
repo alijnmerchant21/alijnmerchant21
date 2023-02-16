@@ -78,12 +78,8 @@
   <br> 
   <br>
   
-<! -- ## Most Recent Tweets. <br><br>
+<!-- ## Most Recent Tweets. <br><br>
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ali_the_curios&layout=wide&show_border=off)](https://github.com/gazf/github-readme-twitter)  -->
- 
- 
-<br>
-  <br>
  
 
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
