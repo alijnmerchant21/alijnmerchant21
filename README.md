@@ -22,6 +22,20 @@
  
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21)](https://github.com/alijnmerchant21/github-readme-stats)
 
+<br> 
+<br>
+ 
+ <p>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="49.6%" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" width="49.6%" /> 
+ </p>
+
+ ```html
+ <p>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" width="49.6%" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" width="49.6%" /> 
+ </p>
+ ```
 
 <br>
 <br>
