@@ -10,11 +10,7 @@
 **A proud Husband, Son & Brother** 
 
  
- <a href="https://twitter.com/Ali_the_Curios" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/ali_the_curious/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="http://linkedin.com/in/ali-the-curious/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/alijnmerchant21" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="http://linktr.ee/Aliasgar.Merchant" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+ 
  
  <br>
  <br>
@@ -76,37 +72,36 @@
   <br>
   - - -
 
-<!--<a href="https://novakcgx.me">
-    <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
-</a>-->
 
-<a href="mailto:cszach@proton.me">
-    <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/zach-nguyen">
+<a href="https://www.linkedin.com/in/ali-the-curious">
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
-<a href="https://paypal.me/dnguy38">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
+<a href="https://www.instagram.com/ali_the_curious">
+ <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 
-<a href="https://www.buymeacoffee.com/cszach">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
-</a>
+<a href="https://twitter.com/Ali_the_Curios">
+ <img height="32" align="left" alt="twitter" src="img/icons/twitter.png" />
+ 
+<a href="https://github.com/alijnmerchant21">
+ <img height="32" align="left" alt="github" src="img/icons/github.png" />
+ 
+<a href="http://linktr.ee/Aliasgar.Merchant">
+ <img height="32" align="left" alt="website" src="img/icons/coding.png" />
+ 
+ 
+ 
+ 
+  <img height="32" align="left" alt="" src="img/icons/.png" />
 
-<a href="https://liberapay.com/cszach">
-    <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
-</a>
+  
+  
 
-<a href="https://www.instagram.com/thechonkypenguin">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
-</a>
 
-<a href="https://dribbble.com/cszach">
-    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
-</a>
+
+
+ target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>  
   
 
   
