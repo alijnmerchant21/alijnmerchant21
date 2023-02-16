@@ -84,7 +84,7 @@
 
 <br> <br> <br>
 
-**Medium Most Recent Articles.** <br><br>
+## Most Recent Articles. <br><br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/0" alt="Recent Article 0"> <br> <br>
  
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1" alt="Recent Article 1"> <br> <br>
@@ -101,5 +101,4 @@
  <br>
 
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
-  <br>
  
