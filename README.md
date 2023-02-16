@@ -62,9 +62,12 @@
 
  
 <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=alijnmerchant21&repo=github-readme-stats" width="49.6%" height="60%"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&layout=compact" width="49.6%" height="50%"/>
- </p>
+   <img src="https://github-readme-stats.vercel.app/api?username=alijnmerchant21&repo=github-readme-stats" width="49.6%" />
+   <img src="https://streak-stats.demolab.com?user=alijnmerchant21" width="49.6%" />
+</p>
+
+<br>
+<br>
 
 
 
