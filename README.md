@@ -6,11 +6,33 @@
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 
-
 **A proud Husband, Son & Brother** 
 
  
  
+<a href="http://linktr.ee/Aliasgar.Merchant">
+ <img height="32" align="left" alt="website" src="img/icons/coding.png" />
+</a>
+  
+<a href="https://twitter.com/Ali_the_Curios">
+ <img height="32" align="left" alt="twitter" src="img/icons/twitter.png" />
+</a>
+
+<a href="http://ali-the-curious.medium.com">
+ <img height="32" align="left" alt="" src="img/icons/medium.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/ali-the-curious">
+    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
+
+<a href="https://www.instagram.com/ali_the_curious">
+ <img height="32" align="left" alt="Instagram" src="img/icons/instagram-2.png" />
+</a>
+ 
+<a href="https://github.com/alijnmerchant21">
+ <img height="32" align="left" alt="github" src="img/icons/github.png" />
+</a>
  
  <br>
  <br>
@@ -70,40 +92,11 @@
  
 <br>
   <br>
-  - - -
-
-
-<a href="https://www.linkedin.com/in/ali-the-curious">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
-
-<a href="https://www.instagram.com/ali_the_curious">
- <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
-</a>
-
-<a href="https://twitter.com/Ali_the_Curios">
- <img height="32" align="left" alt="twitter" src="img/icons/twitter.png" />
- 
-<a href="https://github.com/alijnmerchant21">
- <img height="32" align="left" alt="github" src="img/icons/github.png" />
- 
-<a href="http://linktr.ee/Aliasgar.Merchant">
- <img height="32" align="left" alt="website" src="img/icons/coding.png" />
  
  
- 
- 
-  <img height="32" align="left" alt="" src="img/icons/.png" />
 
   
-  
-
-
-
-
- target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>  
-  
-
+<br>
   
  <br>
 ![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
