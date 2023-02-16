@@ -30,11 +30,18 @@
  <br>
  <br>
  <br>
+ 
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alijnmerchant21?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
  
- <p>
+<!-- <p>
    <img src="https://github-readme-stats.vercel.app/api?username=alijnmerchant21&repo=github-readme-stats" width="49.6%" height="60%"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&layout=compact" width="49.6%" height="50%"/>
+ </p> -->
+ 
+  <p>
+   <https://awesome-github-stats.azurewebsites.net/user-stats/alijnmerchant21?cardType=level&preferLogin=false" width="49.6%"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&layout=compact" width="49.6%"/>
  </p>
 
 
