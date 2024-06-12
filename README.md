@@ -13,7 +13,7 @@
 </a>
   
 <a href="https://twitter.com/Ali_the_Curios">
- <img height="32" align="left" alt="twitter" src="img/icons/twitter.png" />
+ <img height="32" align="left" alt="Twitter" src="img/icons/twitter.png" />
 </a>
 
 <a href="http://ali-the-curious.medium.com">
@@ -57,7 +57,7 @@
 
 <br> <br>
  
-# 👨‍💼 *Working on:*   **BFT Consensus Protocol - [Comet](http://cometbft.com)**<br><br>
+👨‍💼 *Working on:*   **A design first Crypto Wallet**<br><br>
 ✴️ *Excited About:*  **Astrophysics & Existence of God**<br><br>
 🎊 *Work Pleasure:*  **IBC & Cosmos SDK**<br><br>
 ⛓️ *Love Doing:*    **Talking about Cosmos & Blockchain**<br>
@@ -67,16 +67,4 @@
 
 <br> <br>
 
-## Most Recent Articles. <br><br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/0" alt="Recent Article 0"> <br> <br>
- 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ali-the-curious/1" alt="Recent Article 1"> <br> <br>
-  
-  <br> <br>
-  
-<!-- ## Most Recent Tweets. <br><br>
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ali_the_curios&layout=wide&show_border=off)](https://github.com/gazf/github-readme-twitter)  -->
- 
-
-![Profile views](https://gpvc.arturio.dev/alijnmerchant21)
  
