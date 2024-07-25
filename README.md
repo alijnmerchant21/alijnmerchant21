@@ -35,7 +35,10 @@
  <br>
  
    <p align="center">
-  <a href="https://github.com/The-Young-Programmer"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Hi!%20I'm%20Ali%20The%20Curios;%20Always%20Learning,%20Always%20Curios;%20Developer%20Relations%20@CometBFT;%20Cosmos%20Contributor%20since%202019;%20Blockchain%20veteran%20since%202017&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+<a href="https://github.com/The-Young-Programmer">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Hi!%20I'm%20Ali%20The%20Curios;%20Always%20Learning,%20Always%20Curios;%20Founder%20@Crypto%20QuikPay;%20Developer%20Relations;%20Cosmos%20Contributor%20since%202019;%20Blockchain%20veteran%20since%202017&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
+</a>
+
 </p>
 
 <br>
@@ -57,7 +60,7 @@
 
 <br> <br>
  
-👨‍💼 *Working on:*   **A design first Crypto Wallet**<br><br>
+👨‍💼 *Working on:*   **A design first Crypto Wallet & Interoperability Protocols**<br><br>
 ✴️ *Excited About:*  **Astrophysics & Existence of God**<br><br>
 🎊 *Work Pleasure:*  **IBC & Cosmos SDK**<br><br>
 ⛓️ *Love Doing:*    **Talking about Cosmos & Blockchain**<br>
