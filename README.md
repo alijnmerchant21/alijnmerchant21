@@ -62,7 +62,7 @@
  
 👨‍💼 *Working on:*   **A design first Crypto Wallet & Interoperability Protocols**<br><br>
 ✴️ *Excited About:*  **Astrophysics & Existence of God**<br><br>
-🎊 *Work Pleasure:*  **IBC & Cosmos SDK**<br><br>
+🎊 *Work Pleasure:*  **AI & Cosmos**<br><br>
 ⛓️ *Love Doing:*    **Talking about Cosmos & Blockchain**<br>
  
 
