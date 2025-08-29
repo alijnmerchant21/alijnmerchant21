@@ -36,7 +36,7 @@
  
    <p align="center">
 <a href="https://github.com/The-Young-Programmer">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Hi!%20I'm%20Ali%20The%20Curios;%20Always%20Learning,%20Always%20Curios;%20Founder%20@Crypto%20QuikPay;%20Developer%20Relations;%20Cosmos%20Contributor%20since%202019;%20Blockchain%20veteran%20since%202017&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Hi!%20I'm%20Ali%20The%20Curios;%20Always%20Learning,%20Always%20Curios;%20Founder%20@Alt%20Pay;%20Product%20Guy&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
 </a>
 
 </p>
@@ -60,10 +60,10 @@
 
 <br> <br>
  
-👨‍💼 *Working on:*   **A design first Crypto Wallet & Interoperability Protocols**<br><br>
+👨‍💼 *Working on:*   **A design first finance app powered by stablecoin**<br><br>
 ✴️ *Excited About:*  **Astrophysics & Existence of God**<br><br>
-🎊 *Work Pleasure:*  **AI & Cosmos**<br><br>
-⛓️ *Love Doing:*    **Talking about Cosmos & Blockchain**<br>
+🎊 *Work Pleasure:*  **AI & Web3**<br><br>
+⛓️ *Love Doing:*    **Making meaningful products for everyday users**<br>
  
 
 ![Dino](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/dino.gif)
