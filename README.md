@@ -6,15 +6,10 @@
   
   <br>
   
-  <img src="https://github.com/alijnmerchant21/alijnmerchant21/blob/master/My%20Movie%201.gif" width="300" alt="Ali in Action">
-  
-  <br>
-  
-  [![Website](https://img.shields.io/badge/🌐%20Website-Alt%20Pay-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](http://linktr.ee/Aliasgar.Merchant)
+  [![Linktree](https://img.shields.io/badge/🔗%20Linktree-All%20My%20Links-00D4AA?style=for-the-badge&logo=linktree&logoColor=white)](http://linktr.ee/Aliasgar.Merchant)
   [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Ali%20The%20Curious-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-the-curious)
   [![Twitter](https://img.shields.io/badge/🐦%20Twitter-@Ali_the_Curios-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ali_the_Curios)
   [![Medium](https://img.shields.io/badge/📝%20Medium-Ali%20The%20Curious-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](http://ali-the-curious.medium.com)
-  [![GitHub](https://img.shields.io/badge/🐙%20GitHub-alijnmerchant21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alijnmerchant21)
   
 </div>
 
@@ -27,7 +22,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║  🧠 Curious Mind → 💻 Coder → 🚀 Product Builder → 🌟 Founder      ║
+║  🧠 Curious Mind → 💻 Coder → 🚀 Product Builder → 🌟 Founder              ║
 ║                                                                              ║
 ║  📚 Always Learning → 🎯 Always Building → 🌈 Always Growing               ║
 ║                                                                              ║
@@ -46,8 +41,6 @@
   
   ### **🎨 Building @AltPay**
   *A Design-first app for everyday users powered by stablecoin*
-  
-  [![Alt Pay](https://img.shields.io/badge/Alt%20Pay-Finance%20App-FF6B6B?style=for-the-badge&logo=bitcoin&logoColor=white)](http://linktr.ee/Aliasgar.Merchant)
   
   <img src="https://github.com/alijnmerchant21/alijnmerchant21/blob/master/coding.png" width="200" alt="Coding">
   
@@ -86,9 +79,7 @@
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff)
-  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=ffffff)
-  
   ![GitHub Streak](https://streak-stats.demolab.com?user=alijnmerchant21&theme=radical&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=58a6ff&dates=ffffff)
   
 </div>
@@ -126,17 +117,7 @@
 
 ---
 
-## 📫 **Let's Connect & Build Something Amazing**
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🎨%20Portfolio-View%20My%20Work-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](http://linktr.ee/Aliasgar.Merchant)
-[![Email](https://img.shields.io/badge/📧%20Email-Chat%20with%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali@altpay.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-the-curious)
-
-</div>
-
----
 
 <div align="center">
 
