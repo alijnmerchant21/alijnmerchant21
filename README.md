@@ -1,132 +1,115 @@
-# 🚀 Ali M | Your Product Guy !
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="480" alt="Coding animation" />
+</p>
 
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀%20Thinker%20|%20💻%20Coder%20|%20⚡%20Implementer%20|%20🎯%20Founder&font=Fira%20Code&center=true&width=700&height=120&color=FF6B6B&vCenter=true&size=45&pause=1000&color=58A6FF&color=FF6B6B&color=00D4AA&color=FFD93D">
-  
-  <br>
-  
-  [![Linktree](https://img.shields.io/badge/🔗%20Linktree-All%20My%20Links-00D4AA?style=for-the-badge&logo=linktree&logoColor=white)](http://linktr.ee/Aliasgar.Merchant)
-  [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Ali%20The%20Curious-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-the-curious)
-  [![Twitter](https://img.shields.io/badge/🐦%20Twitter-@Ali_the_Curios-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ali_the_Curios)
-  [![Medium](https://img.shields.io/badge/📝%20Medium-Ali%20The%20Curious-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](http://ali-the-curious.medium.com)
-  
-</div>
+<h2 align="center">
+  Hey, I'm Ali
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
+</h2>
 
----
+<p align="center">
+  <a href="https://ali-the-curios.dev/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=520&height=40&lines=Forward+Deployed+Engineer;Developer+Relations;Building+Argus;AI+Engineering+at+Turing+College;Lerne+Deutsch" alt="Forward Deployed Engineer, Developer Relations, Building Argus" />
+  </a>
+</p>
 
-## 🎯 **The Epic Journey: From Curiosity to Creation**
+<p align="center">
+  <a href="https://ali-the-curios.dev/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ali-the-curious"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Ali_the_Curios"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
 
-<div align="center">
+<br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║  🧠 Curious Mind → 💻 Coder → 🚀 Product Builder → 🌟 Founder              ║
-║                                                                              ║
-║  📚 Always Learning → 🎯 Always Building → 🌈 Always Growing               ║
-║                                                                              ║
-║  🎭 Making meaningful products that change lives!                          ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Building right now
 
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="56" /><br/>
+      <a href="https://argus-agent.xyz/"><b>Argus</b></a><br/>
+      <sub>Define the line AI cannot cross</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="56" /><br/>
+      <b>Turing College</b><br/>
+      <sub>AI Engineering: agents, RAG, evals</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="56" /><br/>
+      <a href="https://beyond-the-transistor.misbahfoundation83.workers.dev"><b>Beyond the Transistor</b></a><br/>
+      <sub>Photonic computing, explained</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="56" /><br/>
+      <a href="https://www.fuchsdeutsch.de/"><b>FuchsDeutsch</b></a><br/>
+      <sub>A German course I built</sub>
+    </td>
+  </tr>
+</table>
 
----
+<p align="center"><sub>🔎 Open to Forward Deployed Engineer, AI Engineer, and DevRel roles in Europe, Dubai, or APAC</sub></p>
 
-## 🏢 **Professional Identity**
+<br/>
 
-<div align="center">
-  
-  ### **🎨 Building @AltPay**
-  *A Design-first app for everyday users powered by stablecoin*
-  
-  <img src="https://github.com/alijnmerchant21/alijnmerchant21/blob/master/coding.png" width="200" alt="Coding">
-  
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> Where I've shipped
 
----
+<table>
+  <tr>
+    <td><b>Warden Protocol</b></td>
+    <td>Led product for Warden Studio</td>
+  </tr>
+  <tr>
+    <td><b>1Kosmos</b></td>
+    <td>Forward deployed at Jefferies</td>
+  </tr>
+  <tr>
+    <td><b>Ignite</b></td>
+    <td>Developer experience and tooling</td>
+  </tr>
+  <tr>
+    <td><b>Informal Systems</b></td>
+    <td>CometBFT developer relations</td>
+  </tr>
+  <tr>
+    <td><b>Akash Network</b></td>
+    <td>Decentralized cloud DevRel</td>
+  </tr>
+</table>
 
-## 🛠️ **Tech Arsenal & Skills**
+<sub>8 years across product, DevRel, and forward deployed engineering · MSc Computer Science, Stevens Institute of Technology</sub>
 
-<div align="center">
+<br/><br/>
 
-### **🎨 Frontend & Design**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tools I reach for
 
-### **⚙️ Backend & Infrastructure**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,go,nextjs,react,tailwind,nodejs,docker,aws,solidity,git,linux&perline=12" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MCP-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cosmos_SDK-2E3148?style=flat-square&logo=cosmos&logoColor=white"/>
+</p>
 
-### **🔗 Web3 & Blockchain**
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Cosmos](https://img.shields.io/badge/Cosmos-2E3148?style=for-the-badge&logo=cosmos&logoColor=white)
+<br/>
 
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub stats
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## 📊 **GitHub Analytics**
+<br/>
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alijnmerchant21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alijnmerchant21&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=ffffff)
-  ![GitHub Streak](https://streak-stats.demolab.com?user=alijnmerchant21&theme=radical&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=58a6ff&dates=ffffff)
-  
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="28" /> Off the keyboard
 
----
+Philosophy, astrophysics, books, films, and mountains. I keep all of that in **[Ecke](https://ecke-ten.vercel.app/)**, my small corner of the internet for collecting questions, not conclusions.
 
-
-
-## 🔮 **Current Focus & Future Horizons**
-
-### **🎨 Building Today**
-- **🚀 Alt Pay**: Design-first finance app powered by stablecoin
-- **🤖 AI Integration**: Leveraging AI to enhance user experiences
-- **🔗 Web3 Innovation**: Exploring the future of decentralized finance
-
-### **🚀 Excited About Tomorrow**
-- **🌌 Astrophysics**: The mysteries of the universe and our place in it
-- **🤔 Existence of God**: Philosophical exploration of meaning and purpose
-- **🧠 AI & Web3**: The convergence of artificial intelligence and blockchain
-
----
-
-## 🎭 **Beyond the Code**
-
-<div align="center">
-
-> *"I'm not just a coder, I'm a curious soul who happens to build things"*
-
-</div>
-
-- **🏠 Family Man**: Proud Husband, Son & Brother
-- **🧠 Philosopher**: Deep thinker about existence and meaning
-- **🌌 Space Enthusiast**: Fascinated by the cosmos and our place in it
-- **🎯 Product Guy**: Obsessed with creating meaningful user experiences
-
----
-
-
-
-<div align="center">
-
-![Dino](https://github.com/alijnmerchant21/alijnmerchant21/blob/master/dino.gif)
-
-*"The best code is the code that makes someone's life better"*
-
-**Let's build the future together! 🚀**
-
-</div>
-
- 
+<p align="center"><i>"The best code is the code that makes someone's life better."</i></p>
